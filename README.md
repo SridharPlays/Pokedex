@@ -4,7 +4,6 @@
 [![Expo](https://img.shields.io/badge/Expo-SDK_54-000020?logo=expo&logoColor=white)](https://expo.dev/)
 [![Expo Router](https://img.shields.io/badge/Router-Expo_Router_v6-4630EB)](https://docs.expo.dev/router/introduction/)
 [![PokéAPI](https://img.shields.io/badge/API-PokéAPI_v2-EF5350?logo=pokemon&logoColor=white)](https://pokeapi.co/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A sleek, responsive, and feature-rich Pokédex mobile application built with **React Native** and **Expo**. 
 
@@ -119,7 +118,7 @@ Ensure you have the following installed on your development machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/PokemonApp.git
+   git clone https://github.com/SridharPlays/PokemonApp.git
    cd PokemonApp
    ```
 
@@ -151,9 +150,9 @@ Ensure you have the following installed on your development machine:
 
 ---
 
-## 📄 License
+## 📄 License & Usage
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project was created for personal learning and educational purposes. Pokémon and Pokémon character names are trademarks of Nintendo, Creatures Inc., and GAME FREAK Inc.
 
 ---
 
